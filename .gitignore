@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+syntax/.vs/syntax/v16/.suo
+syntax/syntax.sln
+syntax/syntax/syntax.pyproj
+syntax/.vscode/launch.json
