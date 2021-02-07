@@ -3,4 +3,4 @@ syntax/syntax/syntax.pyproj
 syntax/.vscode/settings.json
 syntax/.vscode/launch.json
 syntax/syntax.sln
-syntax/syntax/Jupyter Notebook/.ipynb_checkpoints/*
+Jupyter Notebook/.ipynb_checkpoints/*
